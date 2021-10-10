@@ -1,0 +1,10 @@
+export const base = "F9FCFE";
+export const text = "#2C2E2F";
+export const white = "#FFFFFF";
+export const grey100 = "#f5f7fa";
+export const grey700 = "#2c2e2f";
+export const blue200 = "#D0D9EC";
+export const blue400 = "#90A6D3";
+export const blue500 = "#3B5595";
+export const blue600 = "#345CAE";
+export const blue700 = "#2854A9";
